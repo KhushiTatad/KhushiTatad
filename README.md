@@ -15,7 +15,7 @@
 
 ## ✨ About Me
 
-- 🎓 First-semester engineering student  
+- 🎓 Diploma CSE 
 - 💻 Passionate about frontend and full-stack development  
 - 🤖 Interested in AI/ML and practical tech solutions  
 - 🛠️ I enjoy building real projects to sharpen my skills  
@@ -72,17 +72,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
 
 ## 🌱 My Goals
 
@@ -97,22 +87,18 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/khushi-tatad-7b4564397/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:kushiben8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/KhushiTatad" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&row=1&column=6" alt="trophies" />
-</p>
 
 <p align="center">
   <b>“Learning, building, and growing every day.”</b>
